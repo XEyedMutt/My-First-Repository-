@@ -1,3 +1,4 @@
 # My-First-Repository-
-Tryong this out
-:coffee: , :skull: , :ghost: 
+Trying this out
+:coffee: , :skull: , :ghost:
+AHHHHHHHHH
